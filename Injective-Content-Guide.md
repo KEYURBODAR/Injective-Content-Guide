@@ -28,6 +28,11 @@
 | [Injective](https://drive.google.com/drive/folders/1jhbHPy2l7-VGEYxGW-Ec4DXFm35wM2IJ) | 
 | [Whole Injective Ecsosystem](https://injspace.notion.site/Injective-Ecosystem-Brand-Kit-Ambassador-Manual-1fbf927afc1f410cae85fa6c582c24da?pvs=4)
 
+### Cool tools
+| Tools | Usage |
+| - | - |
+| [SVG Export](https://chromewebstore.google.com/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp?hl=en-GB) | Extract Vectors from any site | 
+
 ### Some Best Content Creators of Injective you can take inspirations 
 | No. | Name |
 | - | - |
