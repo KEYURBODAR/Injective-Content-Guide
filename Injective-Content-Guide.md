@@ -4,6 +4,7 @@
 2. Don’t use other people’s graphics for your content
 3. Avoid contents related $INJ price i.e., It is overpriced, faded, I told you to buy 5 months ago, INJ to the moon or anything else
 4. Don't use old logo of Injective Blockchain
+5. Don't use 'Injective Protocol' in your content.
 
 ### Tips 
 1. Check official news and trending topics of Injective on Twitter
