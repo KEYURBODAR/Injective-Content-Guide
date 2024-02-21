@@ -28,7 +28,7 @@
 | [Injective](https://drive.google.com/drive/folders/1jhbHPy2l7-VGEYxGW-Ec4DXFm35wM2IJ) | 
 | [Whole Injective Ecsosystem](https://injspace.notion.site/Injective-Ecosystem-Brand-Kit-Ambassador-Manual-1fbf927afc1f410cae85fa6c582c24da?pvs=4)
 
-### Best Content Creators of Injective you can take inspirations 
+### Some Best Content Creators of Injective you can take inspirations 
 | No. | Name |
 | - | - |
 | 1. | [INJNaruto](https://twitter.com/INJNaruto) |
