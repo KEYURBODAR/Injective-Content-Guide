@@ -28,10 +28,12 @@
 | [Injective](https://drive.google.com/drive/folders/1jhbHPy2l7-VGEYxGW-Ec4DXFm35wM2IJ) | 
 | [Whole Injective Ecsosystem](https://injspace.notion.site/Injective-Ecosystem-Brand-Kit-Ambassador-Manual-1fbf927afc1f410cae85fa6c582c24da?pvs=4)
 
-### Cool tools
-| Tools | Usage |
-| - | - |
-| [SVG Export](https://chromewebstore.google.com/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp?hl=en-GB) | Extract Vectors from any site | 
+### Extract Vectors to boost your graphics designing
+
+You can use this Extension to export any vectors from any website to use for your graphics ➡ [SVG Export](https://chromewebstore.google.com/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp?hl=en-GB) 
+
+                ‣ Just open up website you want to extract vectors from. 
+                ‣ Open this extension and now you're done. you will get vectors
 
 ### Some Best Content Creators of Injective you can take inspirations 
 | No. | Name |
@@ -43,4 +45,6 @@
 | 5. | [CryptoL1s](https://twitter.com/CryptoL1s) |
 | 6. | [Hokage](https://twitter.com/Zion_C_) |
 | 7. | [DaniMeister](https://twitter.com/Dani_OOR) |
+| 8. | [Haezl](https://twitter.com/Haezl_Crypto) |
+| 9. | [INJ Space](https://twitter.com/injspace) |
 
